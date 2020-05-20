@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "688240973089",
+    "firebase_url": "https://iesb-f464a.firebaseio.com",
+    "project_id": "iesb-f464a",
+    "storage_bucket": "iesb-f464a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:688240973089:android:994ca99558f78db2375a60",
+        "android_client_info": {
+          "package_name": "com.pushnotificacao"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "688240973089-t5i13n394b66lvs869ddpsdl67ms0he0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBS-HfmVv01PbPBL_CnnpyO9tIgu-Wsrq0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "688240973089-t5i13n394b66lvs869ddpsdl67ms0he0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
